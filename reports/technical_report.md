@@ -1,0 +1,13 @@
+# Technical Report: A/B Testing Analysis
+
+## Executive Summary
+This report details the findings from the experiment...
+
+## Methodology
+...
+
+## Results
+...
+
+## Recommendations
+...
